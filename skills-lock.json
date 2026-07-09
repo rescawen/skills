@@ -114,6 +114,11 @@
       "sourceType": "github",
       "skillPath": "skills/personal/obsidian-vault/SKILL.md",
       "computedHash": "960437c7c2febc15cf9d49964f0c8bd889d90a56e81b6eaa33f3ac5b594291c3"
+    "improve": {
+      "source": "shadcn/improve",
+      "sourceType": "github",
+      "skillPath": "skills/improve/SKILL.md",
+      "computedHash": "39a9358732dcff385e9e4d3e60b4547856f834e54a58b35e455aa9bd49928c13"
     },
     "playwright-best-practices": {
       "source": "currents-dev/playwright-best-practices-skill",
